@@ -72,7 +72,14 @@ export function Hero() {
           </div>
         </div>
 
-       
+        {/* Illustration hero */}
+        <div className="mt-16 text-center">
+          <img
+            src="/images/hero-illustration.png"
+            alt="Illustration TransparenCity - Citoyens gabonais participant à la transparence publique"
+            className="mx-auto max-w-2xl w-full h-auto rounded-xl shadow-lg"
+          />
+        </div>
       </div>
     </section>
   )

@@ -71,9 +71,7 @@ export function Hero() {
             <p className="text-stone-600">Accédez aux données publiques en temps réel et aux rapports détaillés</p>
           </div>
         </div>
-
-       
-      </div>
+        
     </section>
   )
 }
